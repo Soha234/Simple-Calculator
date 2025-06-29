@@ -69,11 +69,11 @@ button{
 }
 
 button:hover{
-    background-color: rgb(249, 208, 154);
+    background-color: rgb(250, 218, 176);
 }
 
 button:active{
-    background-color: rgb(247, 219, 183);
+    background-color: rgb(247, 227, 202);
 }
 
 button.operator{
@@ -99,5 +99,17 @@ button.clear{
  }
 
  button.equals:hover{
-    background-color: rgb(141, 87, 17);
+    background-color: rgb(189, 109, 34);
+ }
+
+ button.clear:active{
+    background-color: rgb(189, 126, 32);
+ }
+
+ button.equals:active{
+    background-color: rgb(212, 136, 49);
+ }
+
+ button.operator:active{
+    background-color: rgb(245, 182, 98);
  }
